@@ -28,7 +28,6 @@ WBAB_Z.LST
 - fixes storehouse door graphic
 
 WJAP_Z.LST
-- adds closed door to winter Japanese well
 - adds open door graphic to winter Japanese well
 
 WROM_Z
