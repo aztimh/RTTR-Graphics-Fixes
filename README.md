@@ -20,12 +20,22 @@ MAP (MAP_0_Z, MAP_1_Z, MAP_2_Z)
 VIK_Z
 - adds open door graphic for Viking well
 
+WAFR_Z.LST
+- adds open door graphic for winter Nubian well
+
 WBAB_Z.LST
 - fixes forester door offset
 - fixes storehouse door graphic
 
+WJAP_Z.LST
+- adds closed door to winter Japanese well
+- adds open door graphic to winter Japanese well
+
 WROM_Z
 - fixes brewery door offset
+
+WVIK_Z
+- adds open door graphic to winter Viking well
 
 charburner
 - correct open door graphic for Winterworld Roman Charburner
