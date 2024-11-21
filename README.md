@@ -17,6 +17,9 @@ JOBS.BOB
 MAP (MAP_0_Z, MAP_1_Z, MAP_2_Z)
 - fixes hammer ware graphic when dropped at flag (previously reused axe graphic)
 
+MAP_0_Z.LST
+- fixes palm trees falling after chopped animation/shadows. They are reversed.
+
 VIK_Z
 - adds open door graphic for Viking well
 
