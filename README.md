@@ -26,14 +26,19 @@ Only the Roman and Bab wells have an open door graphic. These provide that to th
 
 AFR_Z
 - adds open door graphic for Nubian well
+
 WAFR_Z.LST
 - adds open door graphic for winter Nubian well
+
 JAP_Z
 - adds open door graphic for Japanese well
+
 WJAP_Z.LST
 - adds open door graphic to winter Japanese well
+
 VIK_Z
 - adds open door graphic for Viking well
+
 WVIK_Z.LST
 - adds open door graphic for winter Viking well
 
